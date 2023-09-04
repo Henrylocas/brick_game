@@ -10,3 +10,4 @@ import java.awt.Graphics2D;
 import java.awt.Component;
 
 import javax.swing.JFrame;
+Technologies Required: Java, Game development, JFrame, JPanel, and Java Graphics Kit.
